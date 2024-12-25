@@ -68,6 +68,6 @@ Scriptorium is an online platform designed for coding enthusiasts and learners t
 
 - Code Execution: Runs in isolated Docker containers for secure and scalable execution.
 
-### Contribution Guidelines
+## Contribution Guidelines
 
 We welcome contributions to improve Scriptorium! Please submit issues and pull requests on the GitHub repository. Ensure all changes are tested locally before submission.
