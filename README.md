@@ -60,7 +60,7 @@ Scriptorium is an online platform designed for coding enthusiasts and learners t
 
 - Dark and Light Themes: Users can toggle between dark and light themes for a comfortable coding experience.
 
-### Technology Stack
+## Technology Stack
 
 - Frontend: Built with Next.js and React for an interactive and responsive user interface.
 
